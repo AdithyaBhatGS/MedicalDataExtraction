@@ -1,0 +1,1 @@
+Image.fromarray(img_of_num)
